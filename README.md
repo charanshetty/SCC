@@ -6,7 +6,7 @@ The reverse graph is created at the same instance where the orginal graph create
 by this we don't need to create the reverse graph separately.
 
 to run the program:
-$python SCC.py SCC_1.txt'
+$python SCC.py SCC_1.txt
 
 Assuming the text file is in the same folder as of the code
 The output will be total number of SCCs in the graph which also includes includes 
